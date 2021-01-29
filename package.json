@@ -1,0 +1,27 @@
+{
+  "name": "soloproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonryskin/RecipeFinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antonryskin/RecipeFinder/issues"
+  },
+  "homepage": "https://github.com/antonryskin/RecipeFinder#readme"
+}

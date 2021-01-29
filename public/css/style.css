@@ -1,0 +1,46 @@
+html, body {
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    background-color: rgb(255, 244, 231);
+}
+
+p {
+    font-size: 20px;
+}
+
+img {
+    max-width: 500px;
+    max-height: 500px;
+    border-radius: 5%;
+}
+
+.space {
+    padding-top: 20px;
+}
+
+.text {
+    text-align: center;
+    margin-top: 20px;
+    text-align: center;
+    right: 50%;
+    margin-bottom: 50px;
+}
+
+#recipe {
+    width: 200px;
+    text-align: center;
+}
+
+#btn {
+    margin-top: 8px;
+    left: 20px;
+}
+
+#divForName {
+    margin-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    text-align: center;
+}
